@@ -1,0 +1,5 @@
+{
+  "name": "ENVISION - MJ",
+  "description": "Generate cinematic videos from text prompts and images using Google's Veo models.",
+  "requestFramePermissions": []
+}
